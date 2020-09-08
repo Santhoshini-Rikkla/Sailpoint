@@ -1,0 +1,32 @@
+SailPoint IdentityIQ is an identity and access management solution for enterprise customers that delivers a wide
+variety of IAM processes-including automated access certifications, policy management, access request and
+provisioning, password management, and identity intelligence. Furthermore, IdentityIQ has a flexible
+connectivity model that simplifies the management of applications running in the datacenter or the cloud.
+Compliance Manager — IdentityIQ Compliance Manager automates access certifications, policy management,
+and audit reporting through a unified governance framework. This enables you to streamline compliance
+processes and improve the effectiveness of identity governance-all while lowering costs.
+Lifecycle Manager — IdentityIQ Lifecycle Manager manages changes to access through user-friendly self-service
+request and password management interfaces and automated lifecycle events. It provides a flexible, scalable
+provisioning solution for addressing the constantly evolving access needs of your business in a way that's both
+efficient and compliant.
+Integration Modules — IdentityIQ offers Integration Modules that support the extended enterprise IT
+infrastructure. Third party provisioning and service desk integration enable multiple sources of fulfillment to
+access change. Service catalog integration supports a unified service request experience with integrated
+governance and fulfillment. Mobile device management integration mitigates risk posed by mobile devices
+through centralized visibility, control and automation. And IdentityIQ’s IT security integration provides enhanced
+security with improved responsiveness and controls.
+Open Identity Platform — SailPoint’s Open Identity Platform lays the foundation for effective and scalable IAM
+within the enterprise. It establishes a common framework that centralizes identity data, captures business policy,
+models roles, and takes a risk-based, proactive approach to managing users and resources. The Open Identity
+Platform is fully extensible, providing robust analytics which transforms disparate and technical identity data into
+relevant business information, resource connectivity that allows organizations to directly connect IdentityIQ to
+applications running in the datacenter or in the cloud, and APIs and a plugin framework to allow customers and
+partners to extend IdentityIQ to meet a wide array of needs. An open platform allows organizations to build a
+single preventive and detective control model that supports all identity business processes, across all
+applications-in the datacenter and the cloud. SailPoint IdentityIQ applies consistent governance across
+compliance, provisioning and access management processes, maximizing investment and eliminating the need to
+buy and integrate multiple products.
+Password Manager — IdentityIQ Password Manager delivers a simple-to-use solution for managing user
+passwords across cloud and on-premises applications policies from any desktop browser or mobile device. By
+providing intuitive self-service and delegated administration options to manage passwords while enforcing
+enterprise-grade password, IdentityIQ enables businesses to reduce operational costs and boost productivity.
