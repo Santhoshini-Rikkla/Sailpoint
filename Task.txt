@@ -1,0 +1,29 @@
+1.	What is a task in SailPoint IdentityIQ?(L1)
+Tasks are used to automate the processes which build, update, and maintain the information contained within IdentityIQ. 
+2.	How is a task executed?(L1)
+Monitor -> Tasks -> in Task tab select a task, right click on th task and select the option “Execute in Background”.
+3.	What is task result ?(L1)
+Through task results we get view the output of the tasks that we have executed.
+4.	What are scheduled tasks ?(L1)
+The tasks that are not executed immediately but are scheduled to run on specific time for some purpose are known as scheduled tasks. The time on which it has to be executed is specified in the dialog box that appears when right clicked on the tasks and selected the option “schedule”.
+5.	Name few different categories of task definitions?(L1)
+Account Aggregation, Certification Refresh, Generic, Identity, System, scoring
+6.	What is the need for custom tasks?(L1)
+When SailPoint does not provide a task based on the requirements of an organization , then we have to create a new task which meets the need of an organization.
+7.	How to create custom tasks in SailPoint?(L1)
+Custom tasks can be created by writing beanshell code for taskdefinition creation in a rule. We have to specify the category under which our custom task should reside or we can even create new category.
+TaskDefinition td=new TaskDefinition() is used to create new custom task. Name, subtype, description and other parameters for the task can be set using the methods available in sailpoint api.
+8.	How is the Account Aggregation task related with Account Group Aggregation task?(L1)
+Account Aggregation Task creates or correlates identities of applications whereas Account Group Aggregation creates Groups related to applications.
+9.	What is the Sequential Task Launcher?(L2)
+It is a template that is used to create task that runs other multiple tasks.
+10.	Which task is used to promote managed attributes?(L1)
+Identity Refresh Task.
+11.	How to check the number of remainders and escalations sent to the reviewrs?(L1)
+Run the “check expired workitems” task and view the taskresults respective to that task.
+12.	By default when does  Perform Maintenance task executes automatically?(L1)
+12.00 am everyday
+13.	What is the task that is used to generate entitlement roles? (L1)
+Entitlement Role Generator
+14.	What is the difference between Account aggregation and Identity Refresh Tasks?(L2)
+An account aggregation is simply the on-boarding of data into IdentityIQ. As each Aggregation task on-boards new bits of data, new bit of information are being gathered about the Identity Cube. This information is being stored, but has not yet been finalized until the refresh task completes its run and stores that data with the proper persistence into the Identity object that represents the Identity Cube itself. once that has been done though, the complete Identity Cube has been built to the point of the data which it has been given information about the Identities therein stored.
